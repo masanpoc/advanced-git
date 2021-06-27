@@ -1,7 +1,7 @@
 # Advanced Git - Exercises
 ## Exercise One - Under The Hood of a Simple Commit
 
-### Overview
+### Overview of the exercise
 In this exercise, we'll create a simple commit, and then peek under the hood at the objects stored in our `.git` folder to gain some insight into how things work.
 
 ### Prerequisite
