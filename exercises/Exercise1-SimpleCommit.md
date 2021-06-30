@@ -7,7 +7,7 @@ In this exercise, we'll create a simple commit, and then peek under the hood at 
 ### Prerequisite
 If you have a Mac with `brew` set up, install `tree`. This makes it easy to visualize the contents of your `.git` folder.
 
-### Exercise
+### Exercise 2
 1. Create a new folder and initialize it as a git repo
 2. Create a file, stage it, and commit it to your new repo
 3. Look at your `.git` folder, using `tree` if you have it
