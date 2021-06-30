@@ -4,7 +4,7 @@
 ### Overview of the exercise
 In this exercise, we'll create a simple commit, and then peek under the hood at the objects stored in our `.git` folder to gain some insight into how things work.
 
-### Prerequisite
+### Prerequisite of this exercise
 If you have a Mac with `brew` set up, install `tree`. This makes it easy to visualize the contents of your `.git` folder.
 
 ### Exercise 2
@@ -14,7 +14,7 @@ If you have a Mac with `brew` set up, install `tree`. This makes it easy to visu
 4. Inspect the objects in your `.git/objects` folder using `git cat-file`. See if you can find the tree, blob, and commit objects for your recent commit.
 5. Look at your `.git/HEAD` and `.git/refs/heads/master` files and see if you can figure out where these references are pointing to.
 
-## Solutions
+## Solutions here
 
 ### Step 1 - Initialize the Repo
 Create a new sample project folder. Run `git status` to see that it is not yet a git repository. Use `git init` to initialize it as a repository.
